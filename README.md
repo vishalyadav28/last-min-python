@@ -1,6 +1,5 @@
 ### last-min-python
-This repo has a file that contains a quick over view of the Python3 basics.
-last_min.py
+This repo has a file that contains a quick over view of the Python3 basics (file-name : last_min.py)
 
 ### basics_python.txt
 file include info about basics of python3 explained in session.
